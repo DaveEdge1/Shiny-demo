@@ -2,7 +2,7 @@
 % Please edit documentation in R/demo4.R
 \name{choose.data3}
 \alias{choose.data3}
-\title{Run shiny app to set up core image analysis parameters}
+\title{upload data, plot, and save}
 \usage{
 choose.data3()
 }
@@ -10,5 +10,5 @@ choose.data3()
 a data frame
 }
 \description{
-Run shiny app to set up core image analysis parameters
+upload data, plot, and save
 }
